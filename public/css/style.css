@@ -1,0 +1,40 @@
+body{
+  font-family: 'Poppins', sans-serif;
+}
+
+img{
+  width: 40%;
+  height: auto;
+  padding-bottom: 10px;
+}
+
+.row{
+  text-align: center;
+  padding-top: 30px;
+}
+.col-lg-4{
+  padding-bottom: 30px;
+}
+
+#cart{
+  width: 10%;
+  height: auto;
+
+}
+
+#search-item{
+  width: 90%;
+  height: auto;
+  border-radius: 40px;
+  border-style: solid;
+  border-color: grey;
+  border-width: thin;
+  text-align: center;
+}
+#cart_button{
+    border-radius: 40px;
+    padding-left:20px;
+    padding-right:20px;
+    background-color: #2F4F4F;
+    color:white;
+}
